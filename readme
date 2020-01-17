@@ -1,0 +1,23 @@
+https://github.com/AzureADQuickStarts/AppModelv2-WebApp-OpenIDConnect-nodejs => for integrating application with outlook
+and also this https://github.com/jasonjoh/o365-tutorial
+and also this https://docs.microsoft.com/en-us/outlook/rest/node-tutorial
+
+
+
+// NOTES
+// syncCals Meth WRT google
+// 1. fetch all the calendar events from Google calendar
+// 2. add job to create an outlook calendar(a.In outlook create a proxy google cal, b.update the proxy google cal with step one data)
+
+
+// bulk insert in sequelize
+https://stackoverflow.com/questions/35079286/sequelize-bulkcreate-returns-null-value-for-primary-key
+
+//Generate migration
+sequelize migration:generate --name <name of migration>
+
+
+1. Bull for scheduling
+2. Middlewares along with routes?
+3. JOI validators
+4. 
